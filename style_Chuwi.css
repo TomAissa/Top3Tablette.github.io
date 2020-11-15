@@ -1,0 +1,17 @@
+h1 {
+ 	text-align : center;
+    color: red;
+    background-color: blue;
+    font-family: impact;
+    font-size: 42px;
+    text-decoration: underline;
+}
+h2{
+	background-color: yellow;
+}
+h3{
+	text-decoration: underline;
+}
+h4{
+	text-decoration: underline;
+}
